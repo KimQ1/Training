@@ -50,3 +50,14 @@
 ## 下午
 + 概要设计说明书
 + 软件架构c4模型
+# day06
+## 上午
++ springboot项目搭建
++ Thymeleaf模板框架
++ 传值到前端
+## 下午
++ url映射
++ 传值(get、post、file)
++ 数据绑定
++ spring启动过程
++ 集成mybatis
